@@ -7,7 +7,7 @@
 <!--
 Designed and built by the Lonely Whale for /r/dogecoin
 Whale@52hz.pw
-If you'd like to donate some doge to a poor shibe, much appreciate!
+If youd like to donate some doge to a poor shibe, much appreciate!
 
 DQj8aCbpodJg7EbBkwMPHLVR7dwWZgztRP
 
