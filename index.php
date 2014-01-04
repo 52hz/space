@@ -4,6 +4,16 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>CryptoConversion</title>
 <link href="/dist/css/bootstrap.css" rel="stylesheet">
+<!--
+Designed and built by the Lonely Whale for /r/dogecoin
+Whale@52hz.pw
+If you'd like to donate some doge to a poor shibe, much appreciate!
+
+DQj8aCbpodJg7EbBkwMPHLVR7dwWZgztRP
+
+Visit the site demo at http://52hz.pw
+
+-->
 <style type="text/css">
 body {
 	background-image: url(/doge.jpg);
